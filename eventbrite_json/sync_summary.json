@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "organizations": 1,
+  "events": 1,
+  "attendees": 0,
+  "orders": 0,
+  "people": 0,
+  "person_event_relationships": 0,
+  "output_dir": "C:\\work\\Resulticks_Eventbrite_Connectors_POC\\eventbrite_resulticks_connector\\eventbrite_json",
+  "generated_at": "2026-10-30T07:25:44.994466+00:00"
+}
